@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-###### I'm Gabriel, a web developer living in Recife, Brazil.
+###### I'm Gabriel, a back-end developer living in Recife, Brazil.
 
-###### I have been learning more about JavaScript and PHP. :heart: :computer:
+###### I have been learning more about PHP. :heart: :computer:
 
 ###### :coffee: Wanna chat? Me on :point_right: [LinkdIn](https://www.linkedin.com/in/gabriel-victor-6000071b4/)
 

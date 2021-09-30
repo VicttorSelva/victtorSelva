@@ -11,7 +11,7 @@
   <img align="center" alt="Gabriel-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
   </a>
   
- <a href="https://twitter.com/victtorselva?s=09" target="_blank">
+ <a href="https://twitter.com/VicttorSelva_" target="_blank">
   <img align="center" alt="Gabriel-twitter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
   </a>
    

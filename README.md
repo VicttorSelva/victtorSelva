@@ -4,7 +4,7 @@
 
 ###### I have been learning more about JavaScript and PHP. :heart: :computer:
 
-###### :coffee: Wanna chat? Me on :point_right: [LinkdIn](https://www.linkedin.com/in/victtorcodes//)
+###### :coffee: Wanna chat? Me on :point_right: [LinkedIn](https://www.linkedin.com/in/victtorcodes//)
 
 ## *Connect with me:*
 <a href="https://www.linkedin.com/in/victtorcodes//" target="_blank">
